@@ -41,7 +41,7 @@ end
 end
 
 def until_iterator(number_of_times)
-  number_of_times == 0 
+
   until number_of_times == 10
   number_of_times += 1
   
